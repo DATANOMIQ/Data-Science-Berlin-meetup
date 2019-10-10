@@ -1,0 +1,2 @@
+- Modern data warehouse: Microsoft Azure
+- Deployment with Azure ML services
